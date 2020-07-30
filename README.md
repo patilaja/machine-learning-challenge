@@ -24,7 +24,7 @@ This project uses the data they gathered to train four machine learning (ML) mod
 ## Model Comparison
 The Random Forest model was the best model in comparison.  
 
-![FinalModel](Images/FinalModel.png)
+![FinalModel](Images/FinalModel.PNG)
 
 ## Conclusions:
 - Random Forest model is the best choice to predict exoplanet candidacy. 
